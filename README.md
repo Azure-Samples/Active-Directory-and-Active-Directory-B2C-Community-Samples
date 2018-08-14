@@ -1,57 +1,22 @@
-# Project Name
+# Azure Active Directory and Azure Active Directory B2C Community Samples
 
-(short, 1-3 sentenced, description of the project)
+This repo is a collection of samples and resources that have been developed by the community to work with Microsoft identity services (Azure Active Directory and Azure Active Directory B2C).
 
-## Features
+:warning: The resources linked from this repository are neither endorsed nor supported by Microsoft. Please contact the community author if you have questions.
 
-This project framework provides the following features:
+If you have a sample that you wish to add, please make it available in a public repository that can be linked from one of the files within this repository. 
 
-* Feature 1
-* Feature 2
-* ...
+## Microsoft published resources
 
-## Getting Started
+To see all Microsoft owned samples relating to Azure Active Directory, [click here](https://azure.microsoft.com/resources/samples/?service=active-directory). 
 
-### Prerequisites
+Te see all Microsoft owned samples relating to Azure Active Directory B2C, [click here](https://aka.ms/aadb2csamples).
 
-(ideally very short, if any)
+## Have issues or questions?
 
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+We recommend using stack overflow for asking questions related to Azure AD or Azure AD B2C. For your questions, please add the proper tags:
+* azure-active-directory: For general Azure AD questions
+* microsoft-graph: For questions related to Microsoft Graph
+* msal: For questions related to the Microsoft Authentication Library (MSAL)
+* adal: For questions related to the Active Directory Authentication Library (ADAL)
+* azure-ad-b2c: For questions related to Azure AD B2C
