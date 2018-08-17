@@ -20,3 +20,5 @@ We recommend using stack overflow for asking questions related to Azure AD or Az
 * **msal**: For questions related to the Microsoft Authentication Library (MSAL)
 * **adal**: For questions related to the Active Directory Authentication Library (ADAL)
 * **azure-ad-b2c**: For questions related to Azure AD B2C
+
+For more details on how to get help, click [here](https://docs.microsoft.com/azure/active-directory/develop/developer-support-help-options).
