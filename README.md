@@ -10,7 +10,7 @@ If you have a sample that you wish to add, please make it available in a public 
 
 To see all Microsoft owned samples relating to Azure Active Directory, [click here](https://azure.microsoft.com/resources/samples/?service=active-directory). 
 
-Te see all Microsoft owned samples relating to Azure Active Directory B2C, [click here](https://aka.ms/aadb2csamples).
+To see all Microsoft owned samples relating to Azure Active Directory B2C, [click here](https://aka.ms/aadb2csamples).
 
 ## Have issues or questions?
 
